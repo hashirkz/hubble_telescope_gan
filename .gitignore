@@ -1,3 +1,4 @@
 .dist
 hubble_imgs
 hubble_data.csv
+training_checkpoints
