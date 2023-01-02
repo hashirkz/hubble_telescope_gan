@@ -15,15 +15,14 @@ training sample: [opo0010a.png](./hubble_imgs_fixed/opo0010a.png)
 
 ### some generated imgs
 **the results get worse lol most likely because of overfitting and bad hyperparameters**
-- pikachu? :sob: epoch 65: 
+sm1 save pikachu! :sob: epoch 65:  
 ![pikachu](./generated_imgs/generated_img_035_0.png)    
-- epoch 70: 
-![epoch 70](./generated_imgs/generated_img_040_0.png)  
-- epoch 79: 
-![epoch 79](./generated_imgs/generated_img_049_0.png)  
-
-
-- epoch 106: ![epoch 106](./generated_imgs/generated_img_076_0.png)
+epoch 70: 
+![epoch 70](./generated_imgs/generated_img_040_0.png)   
+epoch 79:  
+![epoch 79](./generated_imgs/generated_img_049_0.png)   
+epoch 106:  
+![epoch 106](./generated_imgs/generated_img_076_0.png)  
 
 #### usage  
 1. install required libraries with `pip install -r 'requirements.txt'`
