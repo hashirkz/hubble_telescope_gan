@@ -25,9 +25,9 @@ epoch 106:
 ![epoch 106](./generated_imgs/generated_img_076_0.png)    
 
 #### usage  
-1. install required libraries with `pip install -r 'requirements.txt'`
-2. run all cells in `./hubble_tlsc.ipynb` but comment out the training
-3. run second last cell to generate new images
+1. make sure you have python and jupyter notebook installed
+2. `git clone 'https://github.com/hashirkz/hubble_telescope_gan' <local directory to save to>`
+3. run all cells in `./usage.ipynb`
 
 
 ##### notes  
